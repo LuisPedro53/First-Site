@@ -248,10 +248,9 @@ a.bt5{
 .banner-web-mobile1{
     border-radius: 10px;
     background-color: #bfa9ed;
-    margin-top: 1rem;
+    margin-top: 3.2rem;
     margin-left: 2rem;
     width: 20rem;
-    height: 3rem;
     border: 1px solid black;
 }
 
@@ -272,11 +271,7 @@ a.bt5{
     opacity: 0.5;
     border-radius: 10px;
     background-color: #a47ff3;
-    margin-top: -2.5rem;
-    margin-left: 25rem;
-    margin-right: 40rem;
-    width: 20rem;
-    height: 2rem;
+    height: 35px;
     border: 1px solid black;
 }
 
@@ -311,11 +306,7 @@ a.bt5{
 }
 
 .sobre-front-end-completo{
-    width: 100%;
-    border: 1px solid rgb(207, 198, 198);
-}
-
-.sobre-front-end-completo{
+    float: right;
     width: 100%;
     border: 1px solid rgb(207, 198, 198);
 }
